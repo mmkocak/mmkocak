@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ben Muhammet Koçak, Şuanda web sitesi ve mobil uygulama geliştiriyorum bunların dışında oyun masaüstü geliştirme ve siber güvenlik de yapabiliyorum
+Ben Muhammet Koçak, 5 yıllık Yazılım geliştiriciyim 
 
 
 ## 🌐 Socials:
